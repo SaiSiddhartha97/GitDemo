@@ -1,4 +1,4 @@
-*.exe
-*.jar
 *.class
+*.jar
+*.exe
 /bin/
